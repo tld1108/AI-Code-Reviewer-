@@ -1,5 +1,19 @@
-# Object file
-*.o
+# Environment variables
+.env
+.env.*
 
-# Ada Library Information
-*.ali
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# streamlit cache
+.streamlit/
+
